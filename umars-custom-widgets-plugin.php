@@ -4,6 +4,7 @@ Plugin Name: Umar's Custom Widgets Plugin
 Description: A plugin that adds custom widgets with advanced options by Umar.
 Version: 1.0
 Author: Umar Khtab
+Author URI: https://umarkhtab.wuaze.com/
 */
 
 // Prevent direct access

@@ -64,13 +64,6 @@ Perfect for both beginners and seasoned WordPress users, this plugin adds essent
    - Specify the **Author Name**.
    - Add an optional **Author Image URL** to display a picture of the testimonial giver.
 
----
-
-## 🖼️ **Screenshots**
-
-- **Welcome Widget:** A screenshot showing how the Welcome Widget greets your visitors.
-- **Featured Posts Widget:** A screenshot displaying the Featured Posts Widget with posts from a selected category.
-- **Testimonials Widget:** A screenshot of the Testimonials Widget, including author image and testimonial content.
 
 ---
 
